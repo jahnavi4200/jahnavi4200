@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jahnavi Venkatesulu
+- Process-oriented data analyst with in-depth knowledge to use statistical techniques, programming languages, and data visualization tools to analyze data sets, identify trends, patterns, and correlations.
+- 🌱 I’m currently learning in-depth of machine learning and model building having strong knowledge in python, SQL, tableau, advanced microsoft excel.
+- 💞️ I’m looking to collaborate on projects in helping businesses and organizations understand their operations, customer behavior, and market trends, ultimately contributing to improved strategies and more informed choices.
+- 📫 I can be reached via email, mobile and linkedin.
